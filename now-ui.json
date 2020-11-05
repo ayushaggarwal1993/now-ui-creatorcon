@@ -1,0 +1,8 @@
+{
+	"components": {
+	    "now-experience-dashboard": {
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_now_exp_dash"
+}
